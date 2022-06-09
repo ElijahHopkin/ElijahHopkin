@@ -6,6 +6,8 @@ I'm new to coding, and I'm excited to see where I can go with it.<br>
 
 I'm currently attending Bloom Institute of Technology (BloomTech) as my introduction to the field. I'm looking for help with how to create my first app.
 
+Skills inlcude: JavaScript, HTML, CSS, React.js, Node.js, SQL
+
 <!--
 **ElijahHopkin/ElijahHopkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
