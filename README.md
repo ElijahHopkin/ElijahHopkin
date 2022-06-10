@@ -8,13 +8,10 @@ I'm currently attending Bloom Institute of Technology (BloomTech) as my introduc
 
 Skills inlcude: JavaScript, HTML, CSS, React.js, Node.js, SQL
 
+Contact me @ enhopkin@gmail.com or https://www.linkedin.com/in/elijah-hopkin-59224811/details/skills/?detailScreenTabIndex=0
+
 <!--
-**ElijahHopkin/ElijahHopkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm new to coding, and I'm excited to see where I can go with it.![I'MGoingOnAnAdventureGIF](https://user-images.githubusercontent.com/96888618/152437841-a25f5cbb-26fb-434f-95a0-1bef57129561.gif)
- I'm new to fatherhood and I'm anxious to see where that takes me! 👨‍🍼 I have interests ranging from children's stories, civic issues (particularly local), music, and history. 
-
-I'm currently attending Bloom Institute of Technology (BloomTech) as my introduction to the field. I'm looking for help with how to create my first app.
 
 
 Here are some ideas to get you started:
