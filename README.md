@@ -8,7 +8,7 @@ I'm currently attending Bloom Institute of Technology (BloomTech) as my introduc
 
 Skills inlcude: JavaScript, HTML, CSS, React.js, Node.js, SQL
 
-Contact me @ enhopkin@gmail.com or Linkedin: https://www.linkedin.com/in/elijah-hopkin-59224811/details/skills/?detailScreenTabIndex=0
+Contact me @ enhopkin@gmail.com or Linkedin: www.linkedin.com/in/elijahhopkin
 
 <!--
 
