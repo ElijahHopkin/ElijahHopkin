@@ -10,6 +10,8 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/18s0hK6IQsjuLc3RVwrixLXmvaq_pKoOLLvhwE2AuC8U/edit?usp=sharing](https://docs.google.com/document/d/18s0hK6IQsjuLc3RVwrixLXmvaq_pKoOLLvhwE2AuC8U/edit?usp=sharing)
 - ![I'MGoingOnAnAdventureGIF](https://user-images.githubusercontent.com/96888618/152437841-a25f5cbb-26fb-434f-95a0-1bef57129561.gif)
 
+-  Interests range from children's stories, civic issues (particularly local), music, and to history. I'm a professional singer, and I've previously worked as a bank branch manager, a self-employed window washer, and as a cafe barista.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
