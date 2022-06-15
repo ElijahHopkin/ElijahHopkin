@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elijah Hopkin</h1>
 <h3 align="center">Full Stack Web Developer and Software Engineer</h3>
 
-- 🔭 I’m currently working on [Gnomes](https://github.com/ElijahHopkin/gnomes)
+- 🔭 I’m currently working on [gnomes](https://github.com/ElijahHopkin/gnomes)
 
 - 💬 Ask me about **react.js and node.js**
 
