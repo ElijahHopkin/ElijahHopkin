@@ -12,7 +12,7 @@
 
 -  Interests range from children's stories, civic issues (particularly local), music, and to history. I'm a professional singer, and I've previously worked as a bank branch manager, a self-employed window washer, and as a cafe barista.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/elijahhopkin/</h3>
 <p align="left">
 </p>
 
